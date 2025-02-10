@@ -2,3 +2,4 @@
 ArchitecturalObjectives
 SetupGuide
 DesignFeatures
+DependenciesList
