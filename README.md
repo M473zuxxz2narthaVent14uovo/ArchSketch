@@ -3,3 +3,4 @@ ArchitecturalObjectives
 SetupGuide
 DesignFeatures
 DependenciesList
+CodeExamples
