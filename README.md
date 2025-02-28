@@ -11,3 +11,4 @@ LicenseDetails
 ArchitecturalFAQ
 Changelog
 TestingInstructions
+DesignPerformance
