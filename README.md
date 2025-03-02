@@ -12,3 +12,4 @@ ArchitecturalFAQ
 Changelog
 TestingInstructions
 DesignPerformance
+CommunityResources
